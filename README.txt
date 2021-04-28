@@ -131,20 +131,6 @@ Instructions:
 
 Credits:
 
-	Demo Images:
-		Felicia Simion (ineedchemicalx.deviantart.com)
-			"The Swallow Song"
-			"Mind is a clear stage"
-			"The Anonymous Red"
-			"The sparkling shell"
-			"Carry on"
-
-		Michael Domaradzki (md.photomerchant.net)
-			"Vine Country"
-			"Airchitecture II"
-			"Bent IX"
-			"Air Lounge"
-
 	Icons:
 		Font Awesome (fontawesome.io)
 
